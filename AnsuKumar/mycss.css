@@ -1,0 +1,33 @@
+*{
+    background-color:#3d550c;
+    text-align:center;
+    background-image:url("https://static-cse.canva.com/blob/676447/blue2_5.95f8617e.png" );
+    background-size:cover;
+}
+label{
+    color:#ecf87f;
+}
+button{
+    color:#ecf87f;
+    background-color:Green;
+    
+} 
+button:hover{
+    background-color:#ecf87f;
+    color:black;
+}
+input{
+    background-color: #81b622;
+    color:#ecf87f;
+}
+input:invalid{
+    background-color:rgb(205, 50, 81);
+    background-image: none;
+
+}
+audio{
+    background:green;
+}
+audio:hover{
+    background-color:#ecf87f;
+}
